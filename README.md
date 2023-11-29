@@ -49,7 +49,7 @@ This is the github repo location:
 Link to video on Google Drive:
 (https://drive.google.com/file/d/15sIKb1GgI64CuD14WvB_fi9RIU3w3FN7/view)
 
-<iframe src="https://drive.google.com/file/d/1cO8iLsBSDhkzWRzBiT_ObhLZinV5upfQ/view" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1cO8iLsBSDhkzWRzBiT_ObhLZinV5upfQ/preview" width="640" height="480"></iframe>
  
 
 
